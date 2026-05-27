@@ -17,7 +17,7 @@ public class Veintidos {
 				}
 			}
 		}
-
+		
 		System.out.println(contador);
 	}
-}
+ }
